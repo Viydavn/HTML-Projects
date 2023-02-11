@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    width: 1728px;
+    height: 1117px;
+    font-family: Candara;
+
+}
+
+.whole {
+    margin-left: 200px;
+    margin-top: 154px;
+}
+
+div {
+    color: white;
+}
+
+div header h1 {
+    font-size: 64px;
+}
+
+input {
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    padding: 0px;
+    border: none;
+    width: 1324px;
+    height: 50px;
+    font-family: Candara;
+}
+
+.radio {
+    width: 17px;
+    height: 17px;
+}
+
+::placeholder {
+    color: white;
+    font-size: 22px;
+}
+
+button {
+    width: 226px;
+    height: 58px;
+    font-size: 24px;
+}
+
+hr {
+    width: 1324px;
+    margin-left: 0px;
+}
+
+footer {
+    margin-top: 60px;
+}
+
+.lan {
+    font-size: 24px;
+
+}
+
+#checkbox {
+    margin-top: 20px;
+}
